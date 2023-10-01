@@ -4,12 +4,16 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "dev": "nodemon ./assets/js/bootstrap.js"
+    "dev": "nodemon ./src/server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nunjucks": "^3.2.4"
   }
 }
