@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+}
+
+.fundoImagem img {
+    width: 100%;
+}
+
+.botao {
+    height: 30%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#botao-lst-presente {
+    border: none;
+    font: 700 1.6rem Archivo;
+    /* position: absolute; */
+    color: rgb(168, 126, 196);
+    cursor: pointer;
+
+}
+
+.botao:hover {
+    transform: translateY(-5px);
+    color: rgb(104, 56, 147);
+}
