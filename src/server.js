@@ -15,8 +15,9 @@ server
 .use(express.urlencoded({ extended: true }))
 // configurar arquivos estáticos (css,scripts,imagens)
 .use(express.static("public")) //comecar enxergar o public
+
 //rotas da aplicação
 .get("/", pageIndex)
 .get("/lista-presentes", pageProductsList)
 
-.listen(3000)
+.listen(4000)

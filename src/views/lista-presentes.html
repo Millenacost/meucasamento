@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lista de presentes</title>
-    <link rel="stylesheet" href="../../public/styles/lista-presentes.css">
-    <link rel="stylesheet" href="./assets/css/bootstrap.css">
+    <link rel="stylesheet" href="/styles/lista-presentes.css">
+    <link rel="stylesheet" href="/assets/css/bootstrap.css">
 </head>
 <body>
 
     <div class="fundoImagem">
-      <img src="../../public/images/lista-presente.png">
+      <img src="/images/lista-presente.png">
     </div>
 
     <div class="container mb-5">
@@ -21,17 +21,20 @@
 
         <div>
             <ul class="products-list">
+                {%for produto in listaProdutos %}
                 <li>
                     <img src="">
-                    <h1></h1>
-                    <h2></h2>
+                    <h1>{{produto.name}}</h1>
+                    <a class="btn btn-success" href="{{produto.url}}" role="button">Presentear</a>
+                    <h2>R${{produto.valor}}</h2>
                 </li>
+                {%endfor%}
             </ul>
         </div>
           
     </div>
 
     <script src="./assets/js/bootstrap.js"></script>
-    <script src="../script.js"></script>
+    <!-- <script src="../script.js"></script> -->
 </body>
 </html>
