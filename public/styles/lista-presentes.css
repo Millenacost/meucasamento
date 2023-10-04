@@ -49,3 +49,18 @@ img {
     margin: 0 auto;
     display: block;
 }
+
+.botao-voltar {
+    padding: 0.3% 0.5%;
+    margin: 0.5%;
+    background-color: #7a51ac; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto do botão */
+    text-decoration: none;
+    border: none;
+    /* border-radius: 5px;  */
+    cursor: pointer;
+}
+
+.botao-voltar:hover {
+    background-color: #9e8bb4; /* Cor de fundo alterada */
+  }
