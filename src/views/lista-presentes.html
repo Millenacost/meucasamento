@@ -13,13 +13,22 @@
       <img src="/images/lista-presente.png">
     </div>
 
-    <a class="botao-voltar" href="/">Principal</a>
-
     <div class="container mb-5">
-        <div class="input-group mb-3 w-50 mt-4 position-relative top-50 start-50 translate-middle">
-            <input type="text" class="form-control" placeholder="Digite o nome do presente" aria-label="Digite o nome do presente" aria-describedby="button-addon2">
-            <button class="btn btn-outline-secondary" type="button" id="button-addon2">Buscar</button>
-        </div> 
+        <!-- <div class="menu">
+            <a class="botao-voltar" href="/">Principal</a>
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Digite o nome do presente" aria-label="Digite o nome do presente" aria-describedby="button-addon2">
+                <button class="btn btn-outline-secondary" type="button" id="button-addon2">Buscar</button>
+            </div> 
+        </div> -->
+
+        <div class="menu">
+            <a class="botao-voltar" href="/">Principal</a>
+            <div class="input-botao">
+                <input type="text" class="meu-input" placeholder="Digite o nome do presente" aria-label="Digite o nome do presente" aria-describedby="button-addon2">
+                <button class="meu-botao" type="button" id="meu-botao">Buscar</button>
+            </div> 
+        </div>
 
         <div class="products-list">
             {%for produto in listaProdutos %}

@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    overflow-x: hidden;
 }
 
 .fundoImagem img {
@@ -51,16 +52,74 @@ img {
 }
 
 .botao-voltar {
-    padding: 0.3% 0.5%;
-    margin: 0.5%;
+    padding: 1.5px;
+    /* margin: 0.5%;  */
+    /* margin-right: 40% !important; */
     background-color: #7a51ac; /* Cor de fundo do botão */
     color: #fff; /* Cor do texto do botão */
     text-decoration: none;
     border: none;
-    /* border-radius: 5px;  */
+    border-radius: 2px; 
     cursor: pointer;
+    height: 27px;
 }
 
 .botao-voltar:hover {
     background-color: #9e8bb4; /* Cor de fundo alterada */
-  }
+}
+
+ .menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 35px;
+}
+
+.input-botao {
+    display: flex;
+    flex-direction: row;
+}
+
+.meu-input {
+    max-width: 400px;
+    /* border: none; */
+    border-radius: 5px;
+    border-width: 1.2px;
+    margin-right: 2px;
+}
+
+.meu-botao {
+    border-radius: 5px;
+    background-color: white;
+    border-width: 1.2px;
+}
+
+@media (max-width: 377px) {
+    .form-control {
+        width: 50px !important;
+    }
+
+    .botao-voltar {
+        width: 55px;
+        font-size: 12px;
+        height: 20px;
+        margin-right: 2px;
+        /* padding: 4px; */
+    }
+
+    .input-botao {
+        width: 250px;
+        /* height: 200px; */
+    }
+
+    .meu-input {
+        width:160px;
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .meu-botao {
+        height: 30px;
+    }
+}
+
