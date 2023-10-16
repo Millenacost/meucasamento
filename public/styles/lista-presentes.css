@@ -9,7 +9,7 @@ body {
 
  p {
     text-align: center;
-    height: 100px;
+    height: auto;
 } 
 
 .products-list {
@@ -120,6 +120,49 @@ img {
 
     .meu-botao {
         height: 30px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .content {
+        width: 30%;
+    }
+}
+
+@media (max-width: 992px) {
+    .content {
+        width: 40%;
+    }
+}
+
+@media (max-width: 520px) {
+    .content {
+        width: 40%;
+    }
+
+    p {
+       font-size: small;
+    }
+
+    img {
+        width: 120px;
+        height: 120px;
+    }
+}
+
+
+@media (max-width: 350px) {
+    .content {
+        width: 50%;
+    }
+
+    p {
+       font-size: small;
+    }
+
+    img {
+        width: 120px;
+        height: 120px;
     }
 }
 

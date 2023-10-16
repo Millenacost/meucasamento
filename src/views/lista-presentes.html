@@ -14,13 +14,6 @@
     </div>
 
     <div class="container mb-5">
-        <!-- <div class="menu">
-            <a class="botao-voltar" href="/">Principal</a>
-            <div class="input-group">
-                <input type="text" class="form-control" placeholder="Digite o nome do presente" aria-label="Digite o nome do presente" aria-describedby="button-addon2">
-                <button class="btn btn-outline-secondary" type="button" id="button-addon2">Buscar</button>
-            </div> 
-        </div> -->
 
         <div class="menu">
             <a class="botao-voltar" href="/">Principal</a>
@@ -40,6 +33,20 @@
             </div>
             {%endfor%}
         </div> 
+
+<!-- 
+        <div class="cards">
+            {%for produto in listaProdutos %}
+            <section class="card">
+                <div class="icon">
+                    <img src="/images/produtos/{{produto.image}}">
+                </div>
+                <p>{{produto.name}}</p>
+                <a class="btn btn-success" href="{{produto.url}}" role="button">Presentear</a>
+                <h2>R${{produto.valor}}</h2>
+            </section>
+            {%endfor%}
+        </div>  -->
     </div>
 
     <script src="./assets/js/bootstrap.js"></script>
