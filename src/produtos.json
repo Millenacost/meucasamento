@@ -338,144 +338,256 @@
          "valor": "29,99"
       },
       {
-         "name": "Kit 4 potes de 500 ml",
-         "url": "https://shp.ee/7ktc3i4"
+        "name": "Kit 4 potes de 500 ml",
+        "url": "https://shp.ee/7ktc3i4",
+        "valor": "30,94",
+        "image": "jogo-4-potes-germeticos-dup.jpg"
       },
       {
-         "name": "Jogo de Potes Hermético 3 Peças Dup Sortido 475ml",
-         "url": "https://shp.ee/wv2ttz6"
+        "name": "Jogo de Potes Hermético 3 Peças Dup Sortido 475ml",
+        "url": "https://shp.ee/wv2ttz6",
+        "valor": "33,99",
+        "image": "jogo-de-potes-hermetico-3-pecas.jpg"
       },
       {
-         "name": "Faca japonesa 7",
-         "url": "https://shp.ee/yc5bqmv"
+        "name": "Mop spray mágico",
+        "url": "https://shp.ee/ubi2w96",
+        "valor": "46,80",
+        "image": "mob-spray-magico.jpg"
       },
       {
-         "name": "Mop spray mágico",
-         "url": "https://shp.ee/ubi2w96"
+        "name": "Conjunto de assadeiras",
+        "url": "https://shp.ee/86na2bj",
+        "valor": "73,90",
+        "image": "assadeiras-antiaderentes.jpg"
       },
       {
-         "name": "Conjunto de assadeiras",
-         "url": "https://shp.ee/86na2bj"
+        "name": "Panela rechaud",
+        "url": "https://www.mercadolivre.com.br/rechaud-preto-5l-em-aluminio-com-suporte-para-tampa/p/MLB22641502?from=gshop&matt_tool=63065976&matt_word=&matt_source=google&matt_campaign_id=14302215534&matt_ad_group_id=154967597988&matt_match_type=&matt_network=g&matt_device=c&matt_creative=649487315899&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098639&matt_product_id=MLB22641502-product&matt_product_partition_id=1960832236233&matt_target_id=pla-1960832236233&gclid=CjwKCAjwloynBhBbEiwAGY25dBqIyVcHXIL2F7c4EUWOt6cqvH9BR__oPyin6puKJzFltmchw5klaBoC22MQAvD_BwE",
+        "valor": "119,90",
+        "image": "rechaud-preto-5-l.webp"
       },
       {
-         "name": "Panela rechaud",
-         "url": "https://www.mercadolivre.com.br/rechaud-preto-5l-em-aluminio-com-suporte-para-tampa/p/MLB22641502?from=gshop&matt_tool=63065976&matt_word=&matt_source=google&matt_campaign_id=14302215534&matt_ad_group_id=154967597988&matt_match_type=&matt_network=g&matt_device=c&matt_creative=649487315899&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098639&matt_product_id=MLB22641502-product&matt_product_partition_id=1960832236233&matt_target_id=pla-1960832236233&gclid=CjwKCAjwloynBhBbEiwAGY25dBqIyVcHXIL2F7c4EUWOt6cqvH9BR__oPyin6puKJzFltmchw5klaBoC22MQAvD_BwE"
+        "name": "Conjunto de Frigideiras Tramontina Turim",
+        "url": "https://www.casasbahia.com.br/conjunto-de-frigideiras-tramontina-turim-com-revestimento-antiaderente-starflon-t1-cinza-2-pecas-55003387/p/55003387?utm_medium=cpc&utm_source=GP_PLA&IdSku=55003387&idLojista=10037&tipoLojista=1P&&utm_campaign=gg_pmax_inter_utld&gclid=CjwKCAjw4P6oBhBsEiwAKYVkqxM4y6ynVKzQU8tAEkpx5fifkgfU0B9c-Jrfw-TFcfNKMTjK2R1seBoCu1AQAvD_BwE",
+        "valor": "46,46",
+        "image": "frigideira-tramontina-turim-com-starflon.avif"
       },
       {
-         "name": "Conjunto de Frigideiras Tramontina Turim",
-         "url": "https://www.casasbahia.com.br/conjunto-de-frigideiras-tramontina-turim-com-revestimento-antiaderente-starflon-t1-cinza-2-pecas-55003387/p/55003387?utm_medium=cpc&utm_source=GP_PLA&IdSku=55003387&idLojista=10037&tipoLojista=1P&&utm_campaign=gg_pmax_inter_utld&gclid=CjwKCAjw6eWnBhAKEiwADpnw9tSC0dFiI-thqhlBqVykJUv1o7GyLxli0lzlDrcItkmoXnJxSbWvKxoC9dEQAvD_BwE&gclsrc=aw.ds"
+        "name": "Conjunto de Potes Herméticos Redondos Electrolux",
+        "url": "https://www.casasbahia.com.br/conjunto-de-potes-hermeticos-redondos-electrolux-em-polipropileno-4-pecas-14262177/p/14262177?utm_medium=cpc&utm_source=GP_PLA&IdSku=14262177&idLojista=10037&tipoLojista=1P&&utm_campaign=gg_pmax_inter_utld&gclsrc=aw.ds",
+        "valor": "48,40",
+        "image": "potes-germeticos-electrolux-em-polipropileno.avif"
       },
       {
-         "name": "Conjunto de Potes Herméticos Redondos Electrolux",
-         "url": "https://www.casasbahia.com.br/conjunto-de-potes-hermeticos-redondos-electrolux-em-polipropileno-4-pecas-14262177/p/14262177?utm_medium=cpc&utm_source=GP_PLA&IdSku=14262177&idLojista=10037&tipoLojista=1P&&utm_campaign=gg_pmax_inter_utld&gclid=CjwKCAjw6eWnBhAKEiwADpnw9k6H87AQ4MvxNZ1bwWxBbieJnAEvVZGvxk1Mtot6guWdRuyCgPwQABoC7IAQAvD_BwE&gclsrc=aw.ds"
+        "name": "Conjunto de Potes Herméticos quadrado Electrolux",
+        "url": "https://www.casaevideo.com.br/conjunto-de-potes-hermeticos-de-plastico-electrolux---04-unidades-22842/p?idsku=22806&gclid=CjwKCAjw6eWnBhAKEiwADpnw9lnckxAGPXfehi8Zp4wIp2UcwgVZh3Ux3jsTyAa81q6gmJaFRtRMyhoC66MQAvD_BwE",
+        "valor": "59,90",
+        "image": "conj-potes-germeticos-quadrado-plastico-4-unidades.png"
       },
       {
-         "name": "Conjunto de Potes Herméticos quadrado Electrolux",
-         "url": "https://www.casaevideo.com.br/conjunto-de-potes-hermeticos-de-plastico-electrolux---04-unidades-22842/p?idsku=22806&gclid=CjwKCAjw6eWnBhAKEiwADpnw9lnckxAGPXfehi8Zp4wIp2UcwgVZh3Ux3jsTyAa81q6gmJaFRtRMyhoC66MQAvD_BwE"
+        "name": "Jogo de talheres Tramontina Jumbo para churrasco",
+        "url": "https://shp.ee/dtb47ir",
+        "valor": "117,90",
+        "image": "faqueiro-jogo-talheres-inox.jpg"
       },
       {
-         "name": "Jogo de talheres Tramontina Jumbo para churrasco",
-         "url": "https://shp.ee/dtb47ir"
+        "name": "Panela wok alumínio 28 cm Loreto vermelha",
+        "url": "https://www.americanas.com.br/produto/6891598965?pfm_carac=quem%20viu%20este%20produto%20viu%20tamb%C3%A9m&pfm_index=4&pfm_page=product&pfm_pos=item_page.rr1&pfm_type=vit_recommendation&DCSext.recom=RR_item_page.rr1-mars_ClickCP%3AP%3A95%3A%3Aads%3Dtrue%3AorderAdsTest%3Dmotor_high_ads%3Atestab%3DsingleStrategy&nm_origem=rec_item_page.rr1-mars_ClickCP%3AP%3A95%3A%3Aads%3Dtrue%3AorderAdsTest%3Dmotor_high_ads%3Atestab%3DsingleStrategy&nm_ranking_rec=4&offerId=63a22830401db3b86b5fcd00&cor=Preto&condition=NEW",
+        "valor": "47,93",
+        "image": "frigideira-wok-5-camadas.webp"
       },
       {
-         "name": "Panela wok alumínio 28 cm Loreto vermelha",
-         "url": "https://www.americanas.com.br/produto/6891598965?pfm_carac=quem%20viu%20este%20produto%20viu%20tamb%C3%A9m&pfm_index=4&pfm_page=product&pfm_pos=item_page.rr1&pfm_type=vit_recommendation&DCSext.recom=RR_item_page.rr1-mars_ClickCP%3AP%3A95%3A%3Aads%3Dtrue%3AorderAdsTest%3Dmotor_high_ads%3Atestab%3DsingleStrategy&nm_origem=rec_item_page.rr1-mars_ClickCP%3AP%3A95%3A%3Aads%3Dtrue%3AorderAdsTest%3Dmotor_high_ads%3Atestab%3DsingleStrategy&nm_ranking_rec=4&offerId=63a22830401db3b86b5fcd00&cor=Preto&condition=NEW"
+        "name": "Conjunto de Facas 9 Peças Tramontina Plenus em Aço Inox e Polipropileno",
+        "url": "https://www.casasbahia.com.br/conjunto-de-facas-9-pecas-tramontina-plenus-em-aco-inox-e-polipropileno/p/55003404",
+        "valor": "75,56",
+        "image": "facas-9-pecas-tramontina-plenus.avif"
       },
       {
-         "name": "Conjunto de Facas 9 Peças Tramontina Plenus em Aço Inox e Polipropileno",
-         "url": "https://www.casasbahia.com.br/conjunto-de-facas-9-pecas-tramontina-plenus-em-aco-inox-e-polipropileno/p/55003404"
+        "name": "Garrafa de Água de Vidro 1 Litro",
+        "url": "https://shp.ee/dbxtq63",
+        "valor": "19,90",
+        "image": "garrafa-agua-vidro-1-litro.jpg"
       },
       {
-         "name": "Garrafa de Água de Vidro 1 Litro",
-         "url": "https://shp.ee/dbxtq63"
+        "name": "Jarra De Vidro Com Alça E Tampa Para Água Suco Refrigerante",
+        "url": "https://shopee.com.br/product/325008325/6175142343?d_id=cefbe&utm_content=4TLL9BiMmGEyM3SNQvkq8abUEDxb",
+        "valor": "25,90",
+        "image": "jarra-de-vidro-com-alca-e-tampa.jpg"
       },
       {
-         "name": "Jarra De Vidro Com Alça E Tampa Para Água Suco Refrigerante",
-         "url": "https://shopee.com.br/product/325008325/6175142343?d_id=cefbe&utm_content=4TLL9BiMmGEyM3SNQvkq8abUEDxb"
+        "name": "Garrafa Transparente Em Formato Caixa Leite Portátil Geladeira 500ml-1000ml",
+        "url": "https://shp.ee/zefipu4",
+        "valor": "29,00",
+        "image": "garrafa-transparente-formato-caixa-leite.jpg"
       },
       {
-         "name": "Garrafa Transparente Em Formato Caixa Leite Portátil Geladeira 500ml-1000ml",
-         "url": "https://shp.ee/zefipu4"
+        "name": "Garrafa de Água 1,8 Litros Plasútil",
+        "url": "https://shp.ee/7qn5knq",
+        "valor": "23,90",
+        "image": "garrafa-agua-1-8-litros-plasutil.jpg"
       },
       {
-         "name": "Garrafa de Água 1,8 Litros Plasútil",
-         "url": "https://shp.ee/7qn5knq"
+        "name": "Jogo Americano Realeza Bege Bordado Mesa Posta 08 Peças",
+        "url": "https://produto.mercadolivre.com.br/MLB-2761039786-jogo-americano-realeza-bege-bordado-mesa-posta-08-pecas-_JM?attributes=PATTERN_NAME:UmVhbGV6YQ==,COLOR_SECONDARY_COLOR:QmVnZSBCb3Jd4kYW5k5jYRnjmfteURzyXGadFwz1T7DMRln3jeB1FrHdzzgVsasTJ9vwPewKBB4eMxAfD_BwE",
+        "valor": "69,84",
+        "image": "jogo-americano-realeza-bege.webp"
       },
       {
-         "name": "Jogo Americano Realeza Bege Bordado Mesa Posta 08 Peças",
-         "url": "https://produto.mercadolivre.com.br/MLB-2761039786-jogo-americano-realeza-bege-bordado-mesa-posta-08-pecas-_JM?attributes=PATTERN_NAME:UmVhbGV6YQ==,COLOR_SECONDARY_COLOR:QmVnZSBCb3JkYWRvIERvdXJhZG8="
+        "name": "Kit Jogo americano 6 lugares com franja. Decoração de mesa/tear mineiro",
+        "url": "https://shp.ee/fpimmj6",
+        "valor": "78,90",
+        "image": "kit-jogo-americano-6-lugares-com-franja.jpg"
       },
       {
-         "name": "Kit Jogo americano 6 lugares com franja. Decoração de mesa/tear mineiro",
-         "url": "https://shp.ee/fpimmj6"
+        "name": "Kit 4 e 6 Porta Guardanapo cordão São Francisco trançado 4 voltas - Conjunto Anel / Argola",
+        "url": "https://shopee.com.br/product/397680169/10508939716?d_id=cefbe&utm_content=4TLL9BiMmefVeiHNRiwC8UcWGfZZ",
+        "valor": "25,80",
+        "image": "kit-4-6-porta-guardanapo-cordao-sao-f.jpg"
       },
       {
-         "name": "Kit 4 e 6 Porta Guardanapo cordão São Francisco trançado 4 voltas - Conjunto Anel / Argola",
-         "url": "https://shopee.com.br/product/397680169/10508939716?d_id=cefbe&utm_content=4TLL9BiMmefVeiHNRiwC8UcWGfZZ"
+        "name": "20 Guardanapos Xadrez Vermelho",
+        "url": "https://shp.ee/t4k5dip",
+        "valor": "29,80",
+        "image": "20-guardanapos-xadrez-vermelho.jpg"
       },
       {
-         "name": "20 Guardanapos Xadrez Vermelho",
-         "url": "https://shp.ee/t4k5dip"
+        "name": "Organizador triplo porta algodão cotonetes pincéis joias em acrílico transparente.",
+        "url": "https://shp.ee/azzxfhk",
+        "valor": "59,00",
+        "image": "triplo-porta-algodao.jpg"
       },
       {
-         "name": "Kit 4 Tabuas Hamburguer Gourmet 20,5Cm x 29Cm Madeira",
-         "url": "https://shp.ee/9q3xp9e"
+        "name": "Conjunto 5 Panelas Cerâmica Casa do Chef Tampa de Vidro Cinza",
+        "url": "https://www.casaevideo.com.br/conjunto-5-panelas-ceramica-cv202381-casa-do-chef-cinza/p",
+        "valor": "284,90",
+        "image": "conj-5-panelas-ceramica-chef-tampa-cinza.webp"
       },
       {
-         "name": "Organizador triplo porta algodão cotonetes pincéis joias em acrílico transparente.",
-         "url": "https://shp.ee/azzxfhk"
+        "name": "Jogo de Toalha Buddemeyer 4pçs Oxford Rosa",
+        "url": "https://www.dafiti.com.br/Jogo-de-Toalha-Buddemeyer-4pcs-Oxford-Rosa-3868368.html?utm_term=BU028HDU31CLK&size=4pecas&gclid=CjwKCAjwloynBhBbEiwAGY25dBIvOyZjpJ084dWMuB3LNXzzUKJcAqOkNyArbMaxZvJhK_I4aqwt1BoCJlkQAvD_BwE",
+        "valor": "169,99",
+        "image": "jogo-toalha-buddemeyer-4-pcas.webp"
       },
       {
-         "name": "Conjunto 5 Panelas Cerâmica Casa do Chef Tampa de Vidro Cinza",
-         "url": "https://www.casaevideo.com.br/conjunto-5-panelas-ceramica-cv202381-casa-do-chef-cinza/p"
+        "name": "Panela de Pressão Fechamento Externo 4,5L - Panelux",
+        "url": "https://www.americanas.com.br/produto/7301462698?pfm_carac=panela-de-pressao&pfm_index=3&pfm_page=search&pfm_pos=grid&pfm_type=search_page&offerId=6435629c579fbc8d911c3327&buyboxToken=smartbuybox-acom-v2-bccde3ec-8e7f-44c4-af9f-cb9507beed10-2023-08-21%2022%3A41%3A31%200000-none-default",
+        "valor": "119,90",
+        "image": "panela-pressao-fechamento.webp"
       },
       {
-         "name": "Jogo de Toalha Buddemeyer 4pçs Oxford Rosa",
-         "url": "https://www.dafiti.com.br/Jogo-de-Toalha-Buddemeyer-4pcs-Oxford-Rosa-3868368.html?utm_term=BU028HDU31CLK&size=4pecas&gclid=CjwKCAjwloynBhBbEiwAGY25dBIvOyZjpJ084dWMuB3LNXzzUKJcAqOkNyArbMaxZvJhK_I4aqwt1BoCJlkQAvD_BwE"
+        "name": "CHALEIRA APITO FIXO PRETA 2L HERCULES",
+        "url": "https://shp.ee/9es8rpu",
+        "valor": "83,99",
+        "image": "chaleira-apito-fixo.jpg"
       },
       {
-         "name": "Panela de Pressão Fechamento Externo 4,5L - Panelux",
-         "url": "https://www.americanas.com.br/produto/7301462698?pfm_carac=panela-de-pressao&pfm_index=3&pfm_page=search&pfm_pos=grid&pfm_type=search_page&offerId=6435629c579fbc8d911c3327&buyboxToken=smartbuybox-acom-v2-bccde3ec-8e7f-44c4-af9f-cb9507beed10-2023-08-21%2022%3A41%3A31%200000-none-default"
+        "name": "Faqueiro Wolff",
+        "url": "https://www.amazon.com.br/Wolff-Faqueiro-Viena-Pe%C3%A7as-Prateado/dp/B0B1KVQ663/ref=asc_df_B0B1KVQ663/?tag=googleshopp00-20&linkCode=df0&hvadid=379736529300&hvpos=&hvnetw=g&hvrand=17994419660250727624&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031971&hvtargid=pla-1880612327266&psc=1",
+        "valor": "212,09",
+        "image": "faqueiro-wolff.jpg"
       },
       {
-         "name": "CHALEIRA APITO FIXO PRETA 2L HERCULES",
-         "url": "https://shp.ee/9es8rpu"
-     },
-     {
-         "name": "Balança Digital Corporal Doméstica",
-         "url": "https://shp.ee/iw2wvz8"
-     },
-     {
-         "name": "Bandeja para café Tramontina",
-         "url": "https://shp.ee/t2xiibb"
-     },
-     {
-         "name": "Faqueiro Wolff",
-         "url": "https://www.amazon.com.br/Wolff-Faqueiro-Viena-Pe%C3%A7as-Prateado/dp/B0B1KVQ663/ref=asc_df_B0B1KVQ663/?tag=googleshopp00-20&linkCode=df0&hvadid=379736529300&hvpos=&hvnetw=g&hvrand=17994419660250727624&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031971&hvtargid=pla-1880612327266&psc=1"
-     },
-     {
-         "name": "Cuscuzeira biquinho",
-         "url": "https://shp.ee/nyzp7pb"
-     },
-     {
-         "name": "Vasilhas plásticas retangulares (preferência transparente)",
-         "url": "https://shp.ee/re9nmma"
-     },
-     {
-         "name": "Vasilha plástica kit 10 potes (preferência preto transparente)",
-         "url": "https://shp.ee/nf2rzuw"
-     },
-     {
-         "name": "Mini Pote de Plástico Hermético 4 peças",
-         "url": "https://shp.ee/bgi4tbp"
-     },
-     {
-         "name": "Churrasqueira",
-         "url": "https://shp.ee/8qjfu2z"
-     },
-     {
-         "name": "Conjunto de taças rosa borda dourada",
-         "url": "https://www.mercadolivre.com.br/jogo-de-6-tacas-275ml-dominic-rosa-borda-dourada-hauskraft/p/MLB23155118"
-     }
-   ]
+        "name": "Cuscuzeira biquinho",
+        "url": "https://shp.ee/nyzp7pb",
+        "valor": "41,90",
+        "image": "cuscuzeira-biquinho-aluminio.jpg"
+      },
+      {
+        "name": "Vasilhas plásticas retangulares (preferência transparente)",
+        "url": "https://shp.ee/re9nmma",
+        "valor": "20,99",
+        "image": "vasilhas-plasticas-transparente-kit-10-potes.jpg"
+      },
+      {
+        "name": "Vasilha plástica kit 10 potes (preferência preto transparente)",
+        "url": "https://shp.ee/nf2rzuw",
+        "valor": "30,60",
+        "image": "kit-10-potes-transparentes-BPA.jpg"
+      },
+      {
+        "name": "Mini Pote de Plástico Hermético 4 peças",
+        "url": "https://shp.ee/bgi4tbp",
+        "valor": "17,90",
+        "image": "mini-pote-plastico-hermetico.jpg"
+      },
+      {
+        "name": "Churrasqueira",
+        "url": "https://shp.ee/8qjfu2z",
+        "valor": "74,90",
+        "image": "mini-kit-churrasqueira-aluminio-preta.jpg"
+      },
+      {
+        "name": "Conjunto de taças rosa borda dourada",
+        "url": "https://www.mercadolivre.com.br/jogo-de-6-tacas-275ml-dominic-rosa-borda-dourada-hauskraft/p/MLB23155118",
+        "valor": "169,90",
+        "image": "jogo-6-tacas-275ml-dominic-rosa-borda.webp"
+      },
+      {
+        "name": "Kit Queijeira + Mantegueira + Boleira De Vidro",
+        "url": "https://produto.mercadolivre.com.br/MLB-2628626010-kit-queijeira-manteigueira-e-suporte-de-bolo-cristal-coraco-_JM?matt_tool=63065976&matt_word=&matt_source=google&matt_campaign_id=14302215534&matt_ad_group_id=154967597988&matt_match_type=&matt_network=g&matt_device=c&matt_creative=649487315899&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=661724766&matt_product_id=MLB2628626010&matt_product_partition_id=1960832236313&matt_target_id=pla-1960832236313&gclid=CjwKCAjw4P6oBhBsEiwAKYVkq--Gayr1lbkn9o9n9OZ-ltk1VmX2Kxgu5BI9VAeVzxrMXV5VcmYt_RoC8-cQAvD_BwE",
+        "valor": "183,20",
+        "image": "kit-queijeira-manteigueira-suporte-bolo.webp"
+      },
+      {
+        "name": "Assadeira Terrina 2,3 Litros Marinex Redonda Nadir 3708",
+        "url": "https://shp.ee/a8sudhq",
+        "valor": "72,00",
+        "image": "assadeira-terrina-tampa-vidro.jpg"
+      },
+      {
+        "name": "Jarra de Vidro Transparente Chicago Allure 1,2 Litros",
+        "url": "https://shp.ee/jmrdvej",
+        "valor": "41,90",
+        "image": "jarra-vidro-1200ml-liverpool.jpg"
+      },
+      {
+        "name": "Jogo Copo Vidro California 450ml Redondo Cinza Agua - 6Un",
+        "url": "https://www.casaevideo.com.br/conjunto-6-copos-300ml-oca-nadir/p",
+        "valor": "18,99",
+        "image": "conj-copos-300ml-nadir-oca.png"
+      },
+      {
+        "name": "Jogo de pratos rasos pimenta rosa",
+        "url": "https://www.amazon.com.br/Acervo-Pratos-Rasos-Panelinha-Pimenta/dp/B07T7RJGVQ/ref=pd_aw_pspc_dp_m_m_4?pd_rd_w=zBKgg&content-id=amzn1.sym.af1acddf-d4e6-49c2-a119-e0dddb32427f&pf_rd_p=af1acddf-d4e6-49c2-a119-e0dddb32427f&pf_rd_r=F5BTKWBKQ0BXS2XRYEB2&pd_rd_wg=WPjuN&pd_rd_r=723be62f-5f11-43a5-96e5-d7cfceeb80ba&pd_rd_i=B07T7RJGVQ",
+        "valor": "215,01",
+        "image": "jogo-pratos-rasos-pimenta-rosa.jpg"
+      },
+      {
+        "name": "Conj. 6 Copos Alto Vidro Diamond c/ Fio de Ouro 350ml Lyor",
+        "url": "https://www.dafiti.com.br/Jogo-de-Copos-de-Vidro-Diamond-Fio-de-Ouro-270ml-6-pecas---Lyor-13537234.html?utm_term=LY632HDU65FMW&size=%C3%9Anico&gclid=CjwKCAjw4P6oBhBsEiwAKYVkqxM4y6ynVKzQU8tAEkpx5fifkgfU0B9c-Jrfw-TFcfNKMTjK2R1seBoCu1AQAvD_BwE",
+        "valor": "91,90",
+        "image": "copos-alto-vidro-diamond-fio-ouro-lyor.webp"
+      },
+      {
+        "name": "Kit Colcha / Cobre leito King Dyuri Estampado - Jolitex",
+        "url": "https://produto.mercadolivre.com.br/MLB-3993031802-colcha-dupla-face-jolitex-king-280x260cm-estampada-dyuri-no-_JM?matt_tool=63065976&matt_word=&matt_source=google&matt_campaign_id=14302215534&matt_ad_group_id=154967597988&matt_match_type=&matt_network=g&matt_device=c&matt_creative=649487315899&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=412113010&matt_product_id=MLB3993031802&matt_product_partition_id=1960832236231&matt_target_id=pla-1960832236231&gclid=CjwKCAjw4P6oBhBsEiwAKYVkq5xyZDFhXg69Xb5Lu9gEwlTFAoZmQ3xTf6vAbiWKEHe0Oi6tSavZ8xoC08QQAvD_BwE",
+        "valor": "99,99",
+        "image": "colcha-dupla-face-jolitex-king.webp"
+      },
+      {
+        "name": "Ventilador de mesa",
+        "url": "https://casasbahia.com.br/ventilador-de-mesa-40cm-mondial-super-power-vsp-40-b-6-pas-3-velocidades-preto/p/55029989",
+        "valor": "165,70",
+        "image": "ventilador-mesa-40cm-mondial.avif"
+      },
+      {
+        "name": "Aspirador de pó automático",
+        "url": "https://www.mercadolivre.com.br/aspirador-po-automatico-domestico-limpeza-imediato/p/MLB20806598",
+        "valor": "117,78",
+        "image": "aspirador-po-automatico.webp"
+      },
+      {
+        "name": "Echo Dot 4ª Geração Smart Speaker Com Alexa Amazon Bivolt Cor Preta 110V/220V",
+        "url": "https://www.mercadolivre.com.br/echo-dot-4-geraco-smart-speaker-com-alexa-amazon-bivolt-cor-preta-110v220v/p/MLB16212508?attributes=COLOR:Charcoal",
+        "valor": "359,90",
+        "image": "alexa.webp"
+      },
+      {
+        "name": "Mimo Style Tábua Gourmet Redonda Com Alça Ecokitchen 43cm, Feita Inteiramente de Bambu 100%",
+        "url": "https://a.co/d/4ve70Iu",
+        "valor": "43,21",
+        "image": "mimo-style-tabua.jpg"
+      }
+    ]
 }
