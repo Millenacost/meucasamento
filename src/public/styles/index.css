@@ -1,9 +1,21 @@
-body {
+body, html {
     margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%; /* Define a largura da tela */
 }
 
 .fundoImagem img {
     width: 100%;
+}
+
+.meu-container {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
 }
 
 .botao {
@@ -15,6 +27,7 @@ body {
     flex-direction: column;
     cursor: pointer;
     transition: 0.2s;
+    flex-grow: 2;
 }
 
 #botao-lst-presente {
@@ -31,6 +44,8 @@ body {
     color: rgb(104, 56, 147);
 }
 
-/* @media (max-width: 335px) {
+/* #8e77a4 color lavanda */
+
+/* @media (max-width: 850px) {
 
 } */

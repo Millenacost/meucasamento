@@ -51,9 +51,24 @@ function findProductByName(req, res) {
     return res.redirect("/lista-presentes")
 }
 
+function clickPresentear(req, res) {
+    if(req.body.url && req.body.redirect == "sim") {
+        res.redirect(req.body.url)
+    } 
+}
+
+// function redirecPresentear(req,res) {
+//     if(req.body.url && req.body.redirect == "sim") {
+//         console.log('entrou aqui 1')
+//         res.redirect(req.body.url)
+//     } 
+//     console.log('putz')
+// }
+
 
 module.exports = {
     pageIndex,
     pageProductsList,
-    findProductByName
+    findProductByName,
+    clickPresentear,
 }

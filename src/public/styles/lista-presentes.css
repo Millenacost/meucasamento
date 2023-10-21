@@ -102,6 +102,14 @@ img {
     /* background-color: white; */
     border-width: 1.2px;
 }
+
+.modal-body img {
+    width: 40px;
+    height: 40px;
+    display: inline;
+    vertical-align: middle;
+}
+
 @media (max-width: 325px) {
 
     .botao-voltar {
