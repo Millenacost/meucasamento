@@ -1,6 +1,6 @@
 //servidor
 const express = require("express")
-const { pageIndex, pageProductsList, findProductByName} = require("./public/js/pages.js")
+const { pageIndex, pageProductsList, findProductByName, clickPresentear} = require("./public/js/pages.js")
 
 // configurar nunjucks (template engine)
 const nunjucks = require("nunjucks");
@@ -16,7 +16,10 @@ server
 // configurar arquivos estáticos (css,scripts,imagens)
 // .use(express.static("public")) //comecar enxergar o public
 .use(express.static(__dirname + "/public")) //comecar enxergar o public
-
+.use(function (req,res,next) {
+    res.setHeader("Cache-control", "no-store")
+    next()
+})
 //rotas da aplicação
 .get("/", pageIndex)
 .get("/lista-presentes", pageProductsList)
@@ -24,5 +27,7 @@ server
 .get("/busca-produtos", (req, res) => {
     res.redirect("/lista-presentes")
 })
+.post("/presentear", clickPresentear)
+// .get("/presentear", redirecPresentear)
 
 .listen(4000)

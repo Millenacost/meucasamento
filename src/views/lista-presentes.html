@@ -25,17 +25,43 @@
                 </div> 
             </form>
         </div>
-
+        <h1>{{getUrl}}</h1>
         <div class="products-list">
             {%for produto in listaProdutos %}
             <div class="content">
                 <img src="/images/produtos/{{produto.image}}">
                 <p>{{produto.name}}</p>
-                <a class="btn btn-success" href="{{produto.url}}" role="button">Presentear</a>
+                <form id="form-presentear" action="presentear" method="post">
+                    <input type="hidden" name="url" value="{{produto.url}}">
+                    <button class="btn btn-success" type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Presentear</button>   
+                </form>
                 <h2>R${{produto.valor}}</h2>
             </div>
             {%endfor%}
         </div> 
+
+        <!-- Modal -->
+        <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                <h1 class="modal-title fs-5" id="staticBackdropLabel">Lembrete!</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+                </div>
+                <div class="modal-body">
+                Após a escolha do presente, notifique a noiva, para que assim, possamos retirar o presente da lista e evitar o ganho de presentes repetidos. 
+                <img src="/images/icon-purple-heart.png">
+                </div>
+                <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                <button form="form-presentear" name="redirect" value="sim" class="btn btn-primary">Comprar</button>
+                <!-- <a class="btn btn-primary" href="/presentear" role="button" >Comprar</a> -->
+                
+                </div>
+            </div>
+            </div>
+        </div>
+
 
     </div>
 
