@@ -52,7 +52,7 @@ img {
 }
 
 .botao-voltar {
-    padding: 1.5px;
+    padding: 3px;
     /* margin: 0.5%;  */
     /* margin-right: 40% !important; */
     background-color: #7a51ac; /* Cor de fundo do botão */
@@ -61,7 +61,7 @@ img {
     border: none;
     border-radius: 2px; 
     cursor: pointer;
-    height: 27px;
+    height: 31px;
     margin-right: 2px;
 }
 
@@ -73,7 +73,7 @@ img {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    height: 35px;
+    height: 50px;
 }
 
 .input-botao {
@@ -177,5 +177,6 @@ img {
         height: 35px;
         font-size: 10px;
     }
+
 }
 
