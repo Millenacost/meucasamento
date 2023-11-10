@@ -1,5 +1,10 @@
 {
    "products":[
+        {
+          "name": "Kit Queijeira + Mantegueira + Boleira De Vidro",
+          "url": "https://produto.mercadolivre.com.br/MLB-2628626010-kit-queijeira-manteigueira-e-suporte-de-bolo-cristal-coraco-_JM?matt_tool=63065976&matt_word=&matt_source=google&matt_campaign_id=14302215534&matt_ad_group_id=154967597988&matt_match_type=&matt_network=g&matt_device=c&matt_creative=649487315899&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=661724766&matt_product_id=MLB2628626010&matt_product_partition_id=1960832236313&matt_target_id=pla-1960832236313&gclid=CjwKCAjw4P6oBhBsEiwAKYVkq--Gayr1lbkn9o9n9OZ-ltk1VmX2Kxgu5BI9VAeVzxrMXV5VcmYt_RoC8-cQAvD_BwE",
+          "image": "kit-queijeira-manteigueira.webp"
+        },
        {
          "name": "Conj. 4 Xícaras de Chá em Cristal Transparente c/ Pires Coração Bolinhas",
          "url": "https://shp.ee/8yr69pq",
@@ -17,18 +22,6 @@
          "url": "https://shp.ee/4x2rbut",
          "image": "tigela-bowl-porcelana.jpg",
          "valor": "45,90"
-       },
-       {
-         "name": "4 xicaras de capuccino",
-         "url": "https://shp.ee/qckd5kj",
-         "image": "kit-4-tacas.jpg",
-         "valor": "32,90"
-       },
-       {
-         "name": "Conjunto C/ 6 Pratos De Sobremesa Bio Stoneware Avenca Ø 27,5cm",
-         "url": "https://www.amazon.com.br/Conjunto-Pratos-Raso-Stoneware-Avenca/dp/B09WJHZJNW/ref=d_pd_sbs_sccl_2_1/142-7765898-2356645?pd_rd_w=kqZ3k&content-id=amzn1.sym.369c7e6c-be97-41e7-a405-bca26488259c&pf_rd_p=369c7e6c-be97-41e7-a405-bca26488259c&pf_rd_r=BA8JQKTD0VH54HYB5X16&pd_rd_wg=jya3o&pd_rd_r=1387e32c-fe5d-4058-9cd2-43625fcc31d1&pd_rd_i=B09WJHZJNW&psc=1",
-         "image": "conj-6-pratos-raso.jpg",
-         "valor": "310,90"
        },
        {
          "name": "Jogo De 6 Taças Para Champagne Colibri 220ml Crystal Bohemia",
@@ -49,11 +42,21 @@
          "valor": "60,90"
        },
        {
+        "name": "Assadeira Terrina 2,3 Litros Marinex Redonda Nadir 3708",
+        "url": "https://shp.ee/a8sudhq",
+        "image": "assadeira-com-tampa-de-vidro-3l.jpg"
+      },
+       {
          "name": "Jogo de 6 Taças Para Vinho Branco Gastro, Bohemia, Transparente, 450ml",
          "url": "https://www.amazon.com.br/Ta%C3%A7as-Vinho-Gastro-Bohemia-Transparente/dp/B00A8G2OIM/ref=asc_df_B00A8G2OIM/?tag=googleshopp00-20&linkCode=df0&hvadid=379816283000&hvpos=&hvnetw=g&hvrand=5655255630891354729&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031971&hvtargid=pla-809473042686&psc=1",
          "image": "6-tacas-vinho-branco.jpg",
          "valor": "134,99"
        },
+       {
+        "name": "Jarra De Vidro 1200ml Liverpool Wincy Casa Transparente",
+        "url": "https://shp.ee/jmrdvej",
+        "image": "jarra-vidro-1200ml-liverpool.jpg"
+      },
        {
          "name": "Leiteira de Vidro Borossilicato 500ml - Wolff",
          "url": "https://shp.ee/sbivt9y",
@@ -67,7 +70,7 @@
          "valor": "26,91"
        },
        {
-         "name": "Jogo 2 Molheira de Vidro com Cabo Bambu 100 ml",
+         "name": "Molheira com Cabo Lyor de Vidro e Bambu 50ml",
          "url": "https://shp.ee/d23bp3p",
          "image": "jogo-2-molheira-vidro.jpg",
          "valor": "49,99"
@@ -158,6 +161,11 @@
          "valor": "50,00"
        },
        {
+        "name": "Conj. 6 Copos Alto Vidro Diamond c/ Fio de Ouro 350ml Lyor",
+        "url": "https://www.dafiti.com.br/Jogo-de-Copos-de-Vidro-Diamond-Fio-de-Ouro-270ml-6-pecas---Lyor-13537234.html?utm_term=LY632HDU65FMW&size=%C3%9Anico&gclid=CjwKCAjw4P6oBhBsEiwAKYVkqxM4y6ynVKzQU8tAEkpx5fifkgfU0B9c-Jrfw-TFcfNKMTjK2R1seBoCu1AQAvD_BwE",
+        "image": "lyor-jogo-de-copos-de-vidro-diamond.webp"
+     },
+       {
          "name": "Conjunto Mesa Completo Para Feijoada",
          "url": "https://shp.ee/9ej5zpz",
          "image": "conjunto-mesa-feijoada-4.jpg",
@@ -175,6 +183,11 @@
          "image": "3-potes-vidro-redondos-tampa.jpg",
          "valor": "40,61"
        },
+       {
+        "name": "Conjunto para fondue de cerâmica chocolate",
+        "url": "https://shp.ee/ft6i4ie",
+        "image": "conj-fondue-ceramica-queijo.jpg"
+      },
        {
          "name": "Eletrodomésticos: Mixer 2 em 1 Mondial Preto 200W Pratic - M-15-B",
          "url": "https://www.magazineluiza.com.br/mixer-2-em-1-mondial-preto-200w-pratic-m-15-b/p/234418400/ep/mixe/",
@@ -301,11 +314,10 @@
          "image": "jogo-lencol-king-soutache.jpg",
          "valor": "90,90"
        },
-      {
-         "name": "Kit Colcha / Cobre leito King Ultrasonic - Sultan",
-         "url": "https://www.riachuelo.com.br/produto/kit-colcha-cobre-leito-king-ultrasonic-sultan-3f101980c9594be9a50f005e05698b80",
-         "image": "cobre-leito-king-ultrassonic.png",
-         "valor": "135,99"
+       {
+        "name": "Kit Colcha / Cobre leito King Dyuri Estampado - Jolitex",
+        "url": "https://produto.mercadolivre.com.br/MLB-3993031802-colcha-dupla-face-jolitex-king-280x260-cobre-leito-_JM?attributes=COLOR_SECONDARY_COLOR%3AQ09GSU5T&quantity=1",
+        "image": "colcha-dupla-face-jolitex-king.webp"
       },
       {
          "name": "Manta cobertor casal",
@@ -318,12 +330,6 @@
          "url": "https://shp.ee/mkefkuz",
          "image": "manta-casal-microfibra.png",
          "valor": "34,99"
-      },
-      {
-         "name": "Kit Conjunto 4 Peças Panelas Marrom Hércules Pa300-4ma",
-         "url": "https://produto.mercadolivre.com.br/MLB-3423404161-kit-conjunto-4-pecas-panelas-marrom-hercules-pa300-4ma-_JM?matt_tool=81106094&matt_word=&matt_source=google&matt_campaign_id=14302215564&matt_ad_group_id=154967597508&matt_match_type=&matt_network=g&matt_device=c&matt_creative=649487315917&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=774023126&matt_product_id=MLB3423404161&matt_product_partition_id=1960857711113&matt_target_id=pla-1960857711113&gclid=CjwKCAjw6eWnBhAKEiwADpnw9sORp1kbLsY7DzFN1geYMNWqnOXoq67kGcA1Y2Jewbad5_mF0yyOoRoCtcYQAvD_BwE",
-         "image": "4-panelas-hercules.webp",
-         "valor": "620,32"
       },
       {
          "name": "Garrafa térmica nórdica de café cabo de madeira",
