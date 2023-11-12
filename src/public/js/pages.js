@@ -57,15 +57,6 @@ function clickPresentear(req, res) {
     } 
 }
 
-// function redirecPresentear(req,res) {
-//     if(req.body.url && req.body.redirect == "sim") {
-//         console.log('entrou aqui 1')
-//         res.redirect(req.body.url)
-//     } 
-//     console.log('putz')
-// }
-
-
 module.exports = {
     pageIndex,
     pageProductsList,

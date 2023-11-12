@@ -1,0 +1,53 @@
+.countdown, span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(248, 142, 2);
+
+}
+
+#span-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #8e51cf;
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px
+
+}
+
+.countdown-item {
+    margin: 0 10px;
+    font-size: 2em;
+    text-align: center;
+    background-color: #e7d8f7;
+    padding: 10px;
+    margin-bottom: 50px;
+    border-radius: 6px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.25);
+    transition: .4s;
+
+}
+
+.countdown-item span {
+    display: block;
+    font-size: 0.5em; /* Tamanho do texto 'dias' em relação ao número */
+    color: rgb(248, 142, 2);
+}
+
+@media (max-width: 502px) {
+    #span-top {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 360px) {
+    #span-top {
+        font-size: 12px;
+    }
+}

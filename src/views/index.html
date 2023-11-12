@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lista de presentes</title>
     <link rel="stylesheet" href="/styles/index.css">
+    <link rel="stylesheet" href="/styles/countdown.css">
     <link rel="stylesheet" href="/assets/css/bootstrap.css">
 </head>
 <body>
@@ -13,6 +14,15 @@
         <div class="fundoImagem">
           <img src="/images/fundoImagem.png">
         </div>
+
+        <span id="span-top">CONTAGEM REGRESSIVA PARA O GRANDE DIA 💜</span>
+        <div class="countdown">
+            <div class="countdown-item" id="days"></div>
+            <div class="countdown-item" id="hours"></div>
+            <div class="countdown-item" id="minutes"></div>
+            <div class="countdown-item" id="seconds"></div>
+        </div>
+
         <div class="botao">
             <a href="/lista-presentes">
                 <img src="/images/icon-gift.png">
@@ -22,8 +32,30 @@
             </a>
         </div>
     </div>
-
-
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <script type="application/javascript" src="./assets/js/bootstrap.js"></script>
+    <script>
+        var countDownDate = new Date("Jan 26, 2024 23:59:59").getTime();
+
+        function makeTimer() {
+            var now = new Date().getTime();
+            var distance = countDownDate - now;
+
+            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+            
+            var dias = days == 1 ? "DIA" : "DIAS";
+            var horas = hours == 1 ? "HORA" : "HRS"
+
+            $("#days").html(days + `<span> ${dias}</span>`);
+            $("#hours").html(hours + `<span>${horas}</span>`);
+            $("#minutes").html(minutes + "<span>MIN</span>");
+            $("#seconds").html(seconds + "<span>SEG</span>");   
+        }
+
+            setInterval(function() { makeTimer(); }, 1000);
+    </script>
 </body>
 </html>
