@@ -12,6 +12,12 @@ body {
     height: auto;
 } 
 
+#nenhum-produto {
+    font-size: 15px;
+    color: #a9a9a9;
+    font-weight: 10%;
+}
+
 .products-list {
     display: flex;
     flex-wrap: wrap;

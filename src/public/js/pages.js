@@ -35,10 +35,16 @@ function findProductByName(req, res) {
         if(products) {
             products = JSON.parse(products)
         }
+
         let actualListProducts = Array.from(products.products);
         let listaProdutos = [];
         let produtoAtual = "";
         let produtoPedido = ""
+
+        if(actualListProducts.length == 0) {
+            return res.render("lista-presentes.html", { listaProdutos })
+        }
+
         for(let i = 0; i < actualListProducts.length; i++) {
             produtoAtual = removeAcentos(actualListProducts[i].name.toLowerCase());
             produtoPedido = removeAcentos(nomeProduto.toLowerCase());
