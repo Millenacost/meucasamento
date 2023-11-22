@@ -82,7 +82,8 @@
         "name": "Conjunto 6 Copos 300ml Nadir Oca",
         "url": "https://www.casaevideo.com.br/conjunto-6-copos-300ml-oca-nadir/p?idsku=9414&gclid=CjwKCAjwloynBhBbEiwAGY25dEZnjnOkJg0HM1WrKk8mjmFrAEwBJxMItOb5oSwgKnRrrbsW4OqR2RoCmDMQAvD_BwE",
         "image": "conjunto-6-copos-300.png",
-        "valor": "18,99"
+        "valor": "18,99",
+        "comprado": "true"
       },
       {
         "name": "Decanter de vidro",
@@ -130,7 +131,8 @@
         "name": "Jogo com 6 Taças de Vidro para Sundae Sorvete 150ml",
         "url": "https://shp.ee/afrmwsu",
         "image": "6-tacas-vidro-sundae.jpg",
-        "valor": "39,99"
+        "valor": "39,99",
+        "comprado": "true"
       },
       {
         "name": "Conjunto com 3 Potes de Vidro Redondos com Tampa Plástica preta, VDR7093-PT, Euro Home",
@@ -220,7 +222,8 @@
         "name": "Liquidificador Britânia BLQ1300 Fortis Turbo 12 Velocidades + Pulsar 1200W - Preto 110V",
         "url": "https://www.casasbahia.com.br/liquidificador-britania-blq1300-fortis-turbo-12-velocidades-pulsar-1200w-preto-55027466/p/55027467?utm_medium=cpc&utm_source=GP_PLA&IdSku=55027467&idLojista=10037&tipoLojista=1P&&utm_campaign=gg_pmax_core_elpo&gclid=CjwKCAjwloynBhBbEiwAGY25dGConxCF9eNDZ7raLi7OPQWqX48EYwkc_qpGWzr-If0UFP54QG0VlxoCoWwQAvD_BwE&gclsrc=aw.ds",
         "image": "liquidificador-britanica.avif",
-        "valor": "149,90"
+        "valor": "149,90",
+        "comprado": "true"
       },
       {
         "name": "Arrozeira Elétrica A Vapor Pa5 Prime Preto Britânia 127v",
@@ -322,7 +325,8 @@
        "name": "Mop spray mágico",
        "url": "https://shp.ee/ubi2w96",
        "valor": "48,90",
-       "image": "mob-spray-magico.jpg"
+       "image": "mob-spray-magico.jpg",
+       "comprado": "true"
      },
      {
        "name": "Conjunto de assadeiras",
@@ -388,7 +392,8 @@
        "name": "Garrafa Transparente Em Formato Caixa Leite Portátil Geladeira 500ml-1000ml",
        "url": "https://shp.ee/zefipu4",
        "valor": "29,00",
-       "image": "garrafa-transparente-formato-caixa-leite.jpg"
+       "image": "garrafa-transparente-formato-caixa-leite.jpg",
+       "comprado": "true"
      },
      {
        "name": "Garrafa de Água 1,8 Litros Plasútil",
@@ -508,7 +513,8 @@
        "name": "Aspirador de pó automático",
        "url": "https://www.mercadolivre.com.br/aspirador-po-automatico-domestico-limpeza-imediato/p/MLB20806598",
        "valor": "115",
-       "image": "aspirador-po-automatico.webp"
+       "image": "aspirador-po-automatico.webp",
+       "comprado": "true"
      },
      {
        "name": "Echo Dot 4ª Geração Smart Speaker Com Alexa Amazon Bivolt Cor Preta 110V",

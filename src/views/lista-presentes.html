@@ -36,11 +36,24 @@
                 <div class="content">
                     <img src="/images/produtos/{{produto.image}}">
                     <p>{{produto.name}}</p>
+
+                    {% if produto.comprado != null %}
+
+                    <form id="form-presentear-{{loop.index - 1}}" action="presentear" method="post">
+                        <input type="hidden" name="url" value="{{produto.url}}">
+                        <button class="btn btn-secondary" type="button" disabled>Oba! Já ganhamos 😊</button>   
+                    </form>
+                    <h2></h2>
+
+                    {% else %}
+
                     <form id="form-presentear-{{loop.index - 1}}" action="presentear" method="post">
                         <input type="hidden" name="url" value="{{produto.url}}">
                         <button class="btn btn-success" type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop{{loop.index - 1}}">Presentear</button>   
                     </form>
                     <h2>R${{produto.valor}}</h2>
+
+                    {% endif %}
                 </div>
 
                 <div class="modal fade" id="staticBackdrop{{loop.index - 1}}" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel{{loop.index - 1}}" aria-hidden="true">
