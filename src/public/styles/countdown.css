@@ -2,24 +2,19 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: sans-serif;
-    font-weight: bold;
-    color: rgb(248, 142, 2);
-
+    font-family: 'The Seasons';
+    /* font-weight: bold; */
+    color: rgb(255, 167, 0);
 }
 
 #span-top {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: sans-serif;
     font-weight: bold;
     color: #bfa3dd;
     margin-top: 50px;
-    font-family: 'Courier New', Courier, monospace;
     font-size: 20px
-
-
 }
 
 .countdown-item {
@@ -38,7 +33,7 @@
 .countdown-item span {
     display: block;
     font-size: 0.5em; /* Tamanho do texto 'dias' em relação ao número */
-    color: rgb(248, 142, 2);
+    color: rgb(255, 167, 0);
 }
 
 @media (max-width: 502px) {
