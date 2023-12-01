@@ -22,7 +22,8 @@
         "name": "4 xicaras de capuccino",
         "url": "https://shp.ee/jnbwdm5",
         "image": "kit-4-tacas.jpg",
-        "valor": "45,90"
+        "valor": "45,90",
+        "comprado": "true"
       },
       {
         "name": "Jogo De 6 Taças Para Champagne Colibri 220ml Crystal Bohemia",
@@ -138,7 +139,8 @@
         "name": "Conjunto com 3 Potes de Vidro Redondos com Tampa Plástica preta, VDR7093-PT, Euro Home",
         "url": "https://www.amazon.com.br/Conjunto-Redondos-Pl%C3%A1stica-VDR7093-PT-Euro/dp/B09CDYZ72C/ref=d_pd_sbs_sccl_2_2/142-7765898-2356645?pd_rd_w=6NcE5&content-id=amzn1.sym.369c7e6c-be97-41e7-a405-bca26488259c&pf_rd_p=369c7e6c-be97-41e7-a405-bca26488259c&pf_rd_r=S6FQTSQRMXC3ZES41HYN&pd_rd_wg=pG2sK&pd_rd_r=8127a5a8-3199-4c00-8c5b-498438627ec9&pd_rd_i=B09CDYZ72C&psc=1",
         "image": "3-potes-vidro-redondos-tampa.jpg",
-        "valor": "34,98"
+        "valor": "34,98",
+        "comprado": "true"
       },
       {
         "name": "Conjunto para fondue de cerâmica chocolate",
@@ -192,7 +194,8 @@
         "name": "Batedeira Planetária Philco PHP500T (110V)",
         "url": "https://www.magazineluiza.com.br/batedeira-planetaria-mondial-preto-e-inox-700w-premium-12-velocidades/p/021259300/ep/bate/?&seller_id=magazineluiza&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=74275&gad_source=1&gclid=Cj0KCQiAo7KqBhDhARIsAKhZ4ugCdZsRQHXj_BWfA1k8hGdB0bhDexc0je2mr5Vkl1C_dj0gNL0KGYQaAgEaEALw_wcB&gclsrc=aw.ds",
         "image": "batedeira-planetaria.webp",
-        "valor": "296,64"
+        "valor": "296,64",
+        "comprado": "true"
       },
       {
         "name": "Aspirador de Pó Vertical Britânia 2 em 1 (110V)",
@@ -229,7 +232,8 @@
         "name": "Arrozeira Elétrica A Vapor Pa5 Prime Preto Britânia 127v",
         "url": "https://www.mercadolivre.com.br/arrozeira-eletrica-a-vapor-pa5-prime-preto-britnia-127v/p/MLB10818507?from=gshop&matt_tool=25983769&matt_word=&matt_source=google&matt_campaign_id=16393052805&matt_ad_group_id=133859807756&matt_match_type=&matt_network=g&matt_device=c&matt_creative=584296520801&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098639&matt_product_id=MLB10818507-product&matt_product_partition_id=1799766586243&matt_target_id=pla-1799766586243&gclid=CjwKCAjwloynBhBbEiwAGY25dENK7seowlB_Y-2oxSIkVzwp_fEBqKKU78yj3M_wD58p54f5Q_hdPBoCvMsQAvD_BwE",
         "image": "arrozeira-eletrica.webp",
-        "valor": "141,90"
+        "valor": "141,90",
+        "comprado": "true"
       },
       {
         "name": "Panela de pressao eletrica elgin PPR1001 4 litros 127V",
