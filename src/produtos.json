@@ -35,7 +35,8 @@
         "name": "Conjunto com 6 taças Diamond 300ml de vidro na cor fumê",
         "url": "https://shp.ee/5n7mrr4",
         "image": "jogo-de-tacas-vidro.webp",
-        "valor": "96"
+        "valor": "96",
+        "comprado": "true"
       },
       {
         "name": "Conjunto para Sobremesa Ruvolo New Cancun - 12 Peças",
@@ -294,7 +295,8 @@
         "name": "Manta cobertor casal",
         "url": "https://shp.ee/kutdp6e",
         "image": "manta-cobertor-casal.jpg",
-        "valor": "26,50"
+        "valor": "26,50",
+        "comprado": "true"
      },
      {
         "name": "Manta casal micofibra",
@@ -337,7 +339,8 @@
        "name": "Conjunto de assadeiras",
        "url": "https://shp.ee/86na2bj",
        "valor": "76,90",
-       "image": "assadeiras-antiaderentes.jpg"
+       "image": "assadeiras-antiaderentes.jpg",
+       "comprado": "true"
      },
      {
        "name": "Panela rechaud",
