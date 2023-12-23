@@ -16,7 +16,8 @@
         "name": "4 tigelas de porcelana",
         "url": "https://shp.ee/4x2rbut",
         "image": "tigela-bowl-porcelana.jpg",
-        "valor": "49,90"
+        "valor": "49,90",
+        "comprado": "true"
       },
       {
         "name": "4 xicaras de capuccino",
