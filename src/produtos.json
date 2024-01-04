@@ -30,7 +30,8 @@
         "name": "Jogo 6 Taças Champagne Cristal 220ml Bohemia Degustation",
         "url": "https://produto.mercadolivre.com.br/MLB-3248058371-jogo-6-tacas-champagne-cristal-220ml-bohemia-degustation-_JM",
         "image": "jogo-6-tacas-champagne.webp",
-        "valor": "128,30"
+        "valor": "128,30",
+        "comprado": "true"
       },
       {
         "name": "Conjunto com 6 taças Diamond 300ml de vidro na cor fumê",
@@ -517,7 +518,8 @@
        "name": "Ventilador de mesa",
        "url": "https://casasbahia.com.br/ventilador-de-mesa-40cm-mondial-super-power-vsp-40-b-6-pas-3-velocidades-preto/p/55029989",
        "valor": "143,91",
-       "image": "ventilador-mesa-40cm-mondial.avif"
+       "image": "ventilador-mesa-40cm-mondial.avif",
+       "comprado": "true"
      },
      {
        "name": "Aspirador de pó automático",
