@@ -168,13 +168,15 @@
         "name": "Ferro",
         "url": "https://www.casasbahia.com.br/Eletroportateis/FerrodePassar/FerroaVapor/ferro-a-vapor-oster-gcstbs5001-com-spray-branco-azul-55052501.html?IdSku=55052501",
         "image": "ferro-a-vapor-oster.avif",
-        "valor": "96,00"
+        "valor": "96,00",
+        "comprado": "true"
       },
       {
         "name": "Cafeteira elétrica",
         "url": "https://www.casasbahia.com.br/Eletroportateis/Cafeteiras/CafeteirasEletricas/cafeteira-eletrica-arno-perfectta-inox-cfpi-12-xicaras-preta-50005008.html?IdSku=50005008?utm_campaign=gg_brd_inst_cb_exata&utm_source=gp_branding&utm_medium=cpc&gclid=CjwKCAjwloynBhBbEiwAGY25dFh6PD9mJ6tY3kBWuIEWha2iPyv0ZxbStB_UK622lmU-mJHTajTYhRoC7iMQAvD_BwE",
         "image": "cafeteria-eletrica-arno.avif",
-        "valor": "139,00"
+        "valor": "139,00",
+        "comprado": "true"
       },
       {
         "name": "Churrasqueira elétrica Mondial G-04 127V preta",
