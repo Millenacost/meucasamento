@@ -508,7 +508,8 @@
        "name": "Jogo Copo Vidro California 450ml Redondo Cinza Agua - 6Un",
        "url": "https://www.casaevideo.com.br/conjunto-6-copos-300ml-oca-nadir/p",
        "valor": "18,99",
-       "image": "conj-copos-300ml-nadir-oca.png"
+       "image": "conj-copos-300ml-nadir-oca.png",
+       "comprado": "true"
      },
      {
        "name": "Conj. 6 Copos Alto Vidro Diamond c/ Fio de Ouro 350ml Lyor",
