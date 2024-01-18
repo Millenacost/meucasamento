@@ -150,7 +150,8 @@
         "name": "Conjunto para fondue de cerâmica chocolate",
         "url": "https://shp.ee/ft6i4ie",
         "image": "conj-fondue-ceramica-queijo.jpg",
-        "valor": "58,90"
+        "valor": "58,90",
+        "comprado": "true"
       },
       {
         "name": "Mixer Mondial Turbo Max Pratic M15 Preto 127V",
@@ -577,7 +578,8 @@
       "name": "Cortina com blackout",
       "url": "https://produto.mercadolivre.com.br/MLB-2707276174-cortina-blackout-com-voil-200x220-para-quartosala-_JM?attributes=COLOR_SECONDARY_COLOR:UGFsaGE=",
       "valor": "179",
-      "image": "cortina-blackout-2.webp"
+      "image": "cortina-blackout-2.webp",
+      "comprado": "true"
     },
     {
       "name": "Cabeceira para cama king",
