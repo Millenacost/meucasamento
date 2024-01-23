@@ -214,7 +214,8 @@
         "name": "Garrafa Juicer Liquidificador Elétrico Portátil",
         "url": "https://shp.ee/zghti56",
         "image": "garrafa-juicer-liquidificador.jpg",
-        "valor": "24,90"
+        "valor": "24,90",
+        "comprado": "true"
       },
       {
         "name": "Espremedor Elétrico Laranja Limão Frutas P/ Fazer Sucos Recarregável",
